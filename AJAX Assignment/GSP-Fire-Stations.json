@@ -1,0 +1,16 @@
+[
+  {
+    "Station Name": "Station 1",
+    "Address": "100 Main St",
+    "City": "Greenville",
+    "State": "SC",
+    "ZIP Code": "29601"
+  },
+  {
+    "Station Name": "Station 2",
+    "Address": "200 Maple Ave",
+    "City": "Greenville",
+    "State": "SC",
+    "ZIP Code": "29609"
+  }
+]
